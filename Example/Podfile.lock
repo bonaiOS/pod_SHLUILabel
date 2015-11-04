@@ -1,0 +1,14 @@
+PODS:
+  - pod_SHLUILabel (0.1.0)
+
+DEPENDENCIES:
+  - pod_SHLUILabel (from `../`)
+
+EXTERNAL SOURCES:
+  pod_SHLUILabel:
+    :path: ../
+
+SPEC CHECKSUMS:
+  pod_SHLUILabel: 44432e5ee83d82f8fe0abc88fca9c90e27f2a256
+
+COCOAPODS: 0.39.0

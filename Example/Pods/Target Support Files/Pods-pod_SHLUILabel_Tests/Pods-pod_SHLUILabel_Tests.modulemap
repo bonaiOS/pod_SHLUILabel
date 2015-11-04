@@ -1,0 +1,6 @@
+framework module Pods_pod_SHLUILabel_Tests {
+  umbrella header "Pods-pod_SHLUILabel_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

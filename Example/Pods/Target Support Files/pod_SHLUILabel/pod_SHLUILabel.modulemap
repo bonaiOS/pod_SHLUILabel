@@ -1,0 +1,6 @@
+framework module pod_SHLUILabel {
+  umbrella header "pod_SHLUILabel-umbrella.h"
+
+  export *
+  module * { export * }
+}
